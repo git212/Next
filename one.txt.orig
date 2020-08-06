@@ -1,0 +1,11 @@
+This is one.txt
+updated by developer-2
+updated by developer-3
+git is light weight
+git is nice tool
+<<<<<<< HEAD
+git is distributed
+=======
+git is fast
+>>>>>>> e9038a816363af174697d344ce9852debafd776c
+
